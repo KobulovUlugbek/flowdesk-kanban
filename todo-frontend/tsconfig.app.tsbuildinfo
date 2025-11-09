@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/common/confirmdialog.tsx","./src/components/kanban/kanbanboard.tsx","./src/components/kanban/trashboard.tsx","./src/components/layout/appshell.tsx","./src/components/layout/boardsidebar.tsx","./src/components/tasks/taskmodal.tsx","./src/lib/api.ts","./src/types/kanban.ts"],"version":"5.9.3"}
